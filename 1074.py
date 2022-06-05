@@ -1,6 +1,5 @@
-
-####노아해.....
-
+# 다시 봐야할 문제 !!
+# DP문제
 import sys
 
 read = sys.stdin.readline
